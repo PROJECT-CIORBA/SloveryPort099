@@ -1,4 +1,4 @@
-Hi, I’m @SloveryPort099. I currently am interested in Technology. I am learning how to code in python 
+G'day, I'm @SloveryPort099. I'm a student who is intrested in Computer Science and is trying to learn how to program.
 
 <!---
 SloveryPort099/SloveryPort099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
